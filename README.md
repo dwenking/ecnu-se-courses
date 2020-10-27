@@ -7,90 +7,127 @@
 ## 大一学年
 
 ### 高等数学
+* **教材：**
+  * 华东师大版/同济版高等数学
+  
+    链接：https://pan.baidu.com/s/1csGHvz9RZSrYueXSmdIaqg 
+    提取码：obcl 
+    
+  * 托马斯微积分
+  
+    链接：https://pan.baidu.com/s/1nEL4I2RDnjzjLRHDqTE2_w 
+    提取码：5hse 
+  
+* **习题集：**
+  * 同济版配套课后习题
+  
+    链接：https://pan.baidu.com/s/1KUWcZ6KhVSc51J7K7Q_9aA 
+    提取码：2gwx 
+    
+  * 吉米多维奇
+    
+    链接：https://pan.baidu.com/s/1iqUzagWe8znZy_DQOUdggg 
+    提取码：dizr 
 
-[教材：同济版高等数学](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E6%95%99%E6%9D%90)
-
-[习题：同济版课后习题](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E4%B9%A0%E9%A2%98)
-
-[试卷](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)
-
+* **[试卷：]()**
+  
 ### 线性代数
-[教材：Introduction to Linear Algebra](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%BE%E6%9C%AC)
+* **教材：**
+  * Introduction to Linear Algebra
+  
+    链接：https://pan.baidu.com/s/1buxBh7POMOSfKtIWevzqSA 
+    提取码：strs 
 
-[资料](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
+  * 线性代数及其应用
+  
+* **[复习资料：]()**
 
-[试卷]()
+* **[试卷：]()**
 
 P.s.可以配合《线性代数的本质》系列视频食用。
-### 大学物理
-[教材：吴百诗大学物理](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90)
 
-[资料](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%B5%84%E6%96%99)
+### 大学物理
+* **教材：**
+  * 大学物理（吴百诗）
+  
+    链接：https://pan.baidu.com/s/1Bdvh_ouP6KUjYbfulTNJyQ 
+    提取码：qp8z 
+  
+* **[复习资料：]()**
+
+* **[试卷：]()**
 
 ### C语言
-[教材：C语言入门经典]()
+* **教材：**
+  * C语言入门经典
+  
+    链接：https://pan.baidu.com/s/1RaQMgm-aNg0YsyyxNXawGg 
+    提取码：lsy6 
+
+* **[试卷：]()**
 
 [试卷]()
 ### 离散数学
-[教材：Discrete Mathematics and Its Applications]()
+* **教材：**
+  * Discrete Mathematics and Its Applications
+  
+    链接：https://pan.baidu.com/s/1N9s6YDoWMjP0wmRyxGun7A 
+    提取码：shq4 
 
-[试卷]()
+  * Verification of Sequential and Concurrent Programs
+  
+    链接：https://pan.baidu.com/s/1zMs1SB_eibPvqPfS5x_evA 
+    提取码：acr9 
 
-[笔记]()
+* **[笔记：]()**
+
+* **[试卷：]()**
 
 ### 数字逻辑
-[教材：数字电子技术基础]()
+* **教材：**
+  * 数字电子技术基础
+  
+* **[资料：]()**
 
-[资料]()
-
-[试卷]()
+* **[试卷：]()**
 
 ### 数据结构与算法
-[教材：C++数据结构与程序设计]()
+* **教材：**
+  * C++数据结构与程序设计
+  
+    链接：https://pan.baidu.com/s/1xWZkXg60e9HTnXaE-L5Vvw 
+    提取码：06k1 
+    
+  * 挑战程序设计竞赛
+  
+    链接：https://pan.baidu.com/s/1OJ5QWtv3xWdNgyfnHgp-Qw 
+    提取码：8vr5 
+  
 
-[资料]()
+* **[资料：]()**
 
-[试卷]()
+* **[试卷：]()**
 
 P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
+
 ### 计算机系统
-[教材：深入理解计算机系统]()
+* **教材：**
+  * 深入理解计算机系统
+    
+    链接：https://pan.baidu.com/s/1aSrZfQ7VNdXN_wRwNpLCEw 
+    提取码：b5h4 
 
-[实验环境]()
+* **实验环境：**
 
-[实验报告]()
+    链接：https://pan.baidu.com/s/10dSss0NRR7VxNmK1N4QD7w 
+    提取码：ad9y 
 
-[试卷]()
+* **实验报告：**
+    [CSAPP实验](https://blog.csdn.net/dwenking/category_9898908.html)
+    
+* **实验讲解：**
+    
+    链接：https://pan.baidu.com/s/1Eaq7BMf4KhN2eGB1boLjzA 
+    提取码：ztn3 
 
-## 大二学年
-
-### 操作系统
-[教材：操作系统概念]()
-
-[实验环境]()
-
-[实验报告]()
-
-[试卷]()
-
-[笔记]()
-
-### 计算机网络
-[教材：计算机网络]()
-
-[实验环境]()
-
-[实验报告]()
-
-[试卷]()
-
-[笔记]()
-
-### JAVA
-[资料]()
-
-### 概率论
-[资料]()
-
-### Linux
-[资料]()
+* **[试卷:]()**
