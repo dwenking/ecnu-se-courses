@@ -32,6 +32,9 @@
     提取码：dizr 
 
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)**
+
+    链接：https://pan.baidu.com/s/1m-3ZyFdj1ETZLoBxUkmZnw 
+    提取码：vqhp 
   
 ### 线性代数
 * **教材：**
@@ -43,8 +46,14 @@
   * 线性代数及其应用
   
 * **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%B5%84%E6%96%99)**
+   
+    链接：https://pan.baidu.com/s/1Cg6iqsyNL-V2QYlkweEJVA 
+    提取码：cawx 
 
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%95%E5%8D%B7)**
+
+    链接：https://pan.baidu.com/s/1zojxh9u9E70OTPjbuZWF0A 
+    提取码：7lqo 
 
 P.s.可以配合《线性代数的本质》系列视频食用。
 
@@ -57,6 +66,9 @@ P.s.可以配合《线性代数的本质》系列视频食用。
   
 * **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%B5%84%E6%96%99)**
 
+    链接：https://pan.baidu.com/s/1klp_DjbfuZ9Hc9_UAIJBZg 
+    提取码：oy0c 
+
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AF%95%E5%8D%B7)**
 
 ### C语言
@@ -67,6 +79,9 @@ P.s.可以配合《线性代数的本质》系列视频食用。
     提取码：lsy6 
 
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/C%E8%AF%AD%E8%A8%80/%E8%AF%95%E5%8D%B7)**
+
+    链接：https://pan.baidu.com/s/1y3cMsJhXJnO-XGFvZrI3Pw 
+    提取码：agni 
 
 ### 离散数学
 * **教材：**
@@ -81,16 +96,28 @@ P.s.可以配合《线性代数的本质》系列视频食用。
     提取码：acr9 
 
 * **[笔记：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E7%AC%94%E8%AE%B0)**
-
+ 
+    链接：https://pan.baidu.com/s/1eHR7IooSxti3RzEQMmTu4w 
+    提取码：grw6 
+    
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)**
 
+    链接：https://pan.baidu.com/s/1Eu1ShSqsnokx2WQxRmzNPw 
+    提取码：69zq 
+
 * **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%B5%84%E6%96%99)**
+
+    链接：https://pan.baidu.com/s/1LsswL2Xt5s13s6g3ZqnLQA 
+    提取码：ch6w 
 
 ### 数字逻辑
 * **教材：**
   * 数字电子技术基础
   
 * **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91/%E8%B5%84%E6%96%99)**
+
+    链接：https://pan.baidu.com/s/1xVnbqoJvsnyF77LDumprWg 
+    提取码：xzjh 
 
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91/%E8%AF%95%E5%8D%B7)**
 
@@ -109,9 +136,15 @@ P.s.可以配合《线性代数的本质》系列视频食用。
   * 算法（Sedgewick）
   
 
-* **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%B5%84%E6%96%99)**
+* **资料：**
+
+    链接：https://pan.baidu.com/s/1p3XJiykQ3Qc5_90Q8oD6Fw 
+    提取码：zms7 
 
 * **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%95%E5%8D%B7)**
+
+    链接：https://pan.baidu.com/s/15wj9Dcc7ilEn5Q5HNKoI8g 
+    提取码：5iqh 
 
 P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
 
@@ -137,4 +170,10 @@ P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
 
 * **[试卷:](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7)**
 
+    链接：https://pan.baidu.com/s/1i7f_GbdQEcJY3dJUqq-frQ 
+    提取码：x1mq 
+
 * **[资料:](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E8%B5%84%E6%96%99)**
+
+    链接：https://pan.baidu.com/s/1vLrm_p8tnukFlQwP44dJVg 
+    提取码：ql2t 
