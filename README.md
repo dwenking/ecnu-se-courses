@@ -4,6 +4,8 @@
 
 希望能对后来者的学习产生一点帮助。
 
+注：`[资料]`中一般放的是课程PPT/习题答案/作业讲解之类的文件。
+
 ## 大一学年
 
 ### 高等数学
@@ -29,7 +31,7 @@
     链接：https://pan.baidu.com/s/1iqUzagWe8znZy_DQOUdggg 
     提取码：dizr 
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)**
   
 ### 线性代数
 * **教材：**
@@ -40,9 +42,9 @@
 
   * 线性代数及其应用
   
-* **[复习资料：]()**
+* **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%B5%84%E6%96%99)**
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%95%E5%8D%B7)**
 
 P.s.可以配合《线性代数的本质》系列视频食用。
 
@@ -53,9 +55,9 @@ P.s.可以配合《线性代数的本质》系列视频食用。
     链接：https://pan.baidu.com/s/1Bdvh_ouP6KUjYbfulTNJyQ 
     提取码：qp8z 
   
-* **[复习资料：]()**
+* **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%B5%84%E6%96%99)**
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AF%95%E5%8D%B7)**
 
 ### C语言
 * **教材：**
@@ -64,9 +66,8 @@ P.s.可以配合《线性代数的本质》系列视频食用。
     链接：https://pan.baidu.com/s/1RaQMgm-aNg0YsyyxNXawGg 
     提取码：lsy6 
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/C%E8%AF%AD%E8%A8%80/%E8%AF%95%E5%8D%B7)**
 
-[试卷]()
 ### 离散数学
 * **教材：**
   * Discrete Mathematics and Its Applications
@@ -79,17 +80,19 @@ P.s.可以配合《线性代数的本质》系列视频食用。
     链接：https://pan.baidu.com/s/1zMs1SB_eibPvqPfS5x_evA 
     提取码：acr9 
 
-* **[笔记：]()**
+* **[笔记：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E7%AC%94%E8%AE%B0)**
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)**
+
+* **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%B5%84%E6%96%99)**
 
 ### 数字逻辑
 * **教材：**
   * 数字电子技术基础
   
-* **[资料：]()**
+* **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91/%E8%B5%84%E6%96%99)**
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91/%E8%AF%95%E5%8D%B7)**
 
 ### 数据结构与算法
 * **教材：**
@@ -103,10 +106,12 @@ P.s.可以配合《线性代数的本质》系列视频食用。
     链接：https://pan.baidu.com/s/1OJ5QWtv3xWdNgyfnHgp-Qw 
     提取码：8vr5 
   
+  * 算法（Sedgewick）
+  
 
-* **[资料：]()**
+* **[资料：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%B5%84%E6%96%99)**
 
-* **[试卷：]()**
+* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%95%E5%8D%B7)**
 
 P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
 
@@ -130,4 +135,6 @@ P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
     链接：https://pan.baidu.com/s/1Eaq7BMf4KhN2eGB1boLjzA 
     提取码：ztn3 
 
-* **[试卷:]()**
+* **[试卷:](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7)**
+
+* **[资料:](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E8%B5%84%E6%96%99)**
