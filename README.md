@@ -17,11 +17,11 @@
 ### 线性代数
 [教材：Introduction to Linear Algebra](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%BE%E6%9C%AC)
 
-[课外补充：线性代数的本质](https://www.bilibili.com/video/BV1ys411472E)
-
 [资料](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%A4%8D%E4%B9%A0%E8%B5%84%E6%96%99)
 
 [试卷]()
+
+P.s.可以配合《线性代数的本质》系列视频食用。
 ### 大学物理
 [教材：吴百诗大学物理](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E6%95%99%E6%9D%90)
 
@@ -46,11 +46,13 @@
 [试卷]()
 
 ### 数据结构与算法
-[阅读书目]()
+[教材：C++数据结构与程序设计]()
 
-[刷题：EOJ](https://acm.ecnu.edu.cn/)
+[资料]()
 
 [试卷]()
+
+P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
 ### 计算机系统
 [教材：深入理解计算机系统]()
 
