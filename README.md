@@ -177,3 +177,13 @@ P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
 
     链接：https://pan.baidu.com/s/1vLrm_p8tnukFlQwP44dJVg 
     提取码：ql2t 
+
+### Java
+* **资料：**
+
+  * Java基础：
+    链接：https://pan.baidu.com/s/1Ax-MCfJbmmoZxFzrE7PPFw 
+    提取码：zckr 
+    
+  * Java进阶：
+    
