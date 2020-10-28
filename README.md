@@ -1,4 +1,5 @@
 # SoftwareEngineering-Core-Courses
+
 ## Preface
 本项目整理了ECNU软件工程所学的核心课程，资料来源自网络/前人的收集整理。希望能对后来者的学习产生一点帮助。
 
@@ -189,6 +190,8 @@ P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
     提取码：zckr 
     
   * **Java进阶：**
+    
+    [笔记](https://blog.csdn.net/dwenking/category_10189892.html)
     
 ## GoodNotes笔记
   * **大一：**
