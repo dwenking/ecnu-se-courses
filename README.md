@@ -1,8 +1,11 @@
 # SoftwareEngineering-Core-Courses
-## Preface
-本项目整理了ECNU软件工程所学的核心课程，资料来源自网络/前人的收集整理。
 
-希望能对后来者的学习产生一点帮助。
+## Preface
+本项目整理了ECNU软件工程所学的核心课程，资料来源自网络/前人的收集整理。希望能对后来者的学习产生一点帮助。
+
+虽然没人看，不过本项目会持续更新，作为对我大学生活的一个纪念( ͡• ͜ʖ ͡• )。
+
+传度盘的原因是从本地git上传文件之后似乎下载下来不太方便，不知道为什么不能在线浏览（当然也有可能是因为我网络的原因）。
 
 注：`[资料]`中一般放的是课程PPT/习题答案/作业讲解之类的文件。
 
@@ -177,3 +180,22 @@ P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
 
     链接：https://pan.baidu.com/s/1vLrm_p8tnukFlQwP44dJVg 
     提取码：ql2t 
+
+### Java
+* **资料：**
+
+  * **Java基础：**
+  
+    链接：https://pan.baidu.com/s/1Ax-MCfJbmmoZxFzrE7PPFw 
+    提取码：zckr 
+    
+  * **Java进阶：**
+    
+    [笔记](https://blog.csdn.net/dwenking/category_10189892.html)
+    
+## GoodNotes笔记
+  * **大一：**
+  
+    链接：https://pan.baidu.com/s/1JyXeYXaBoGZXT--0gJe7HA 
+    提取码：bbkh
+   
