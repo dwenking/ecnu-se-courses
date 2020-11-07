@@ -1,4 +1,4 @@
-# SoftwareEngineering-Core-Courses
+# ECNU-SoftwareEngineering-Core-Courses
 
 ## Preface
 本项目整理了ECNU软件工程所学的核心课程，资料来源自网络/前人的收集整理。希望能对后来者的学习产生一点帮助。
