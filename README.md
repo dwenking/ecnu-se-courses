@@ -12,193 +12,65 @@
 ## 大一学年
 
 ### 高等数学
-* **教材：**
-  * 华东师大版/同济版高等数学
-  
-    链接：https://pan.baidu.com/s/1csGHvz9RZSrYueXSmdIaqg 
-    提取码：obcl 
     
-  * 托马斯微积分
-  
-    链接：https://pan.baidu.com/s/1nEL4I2RDnjzjLRHDqTE2_w 
-    提取码：5hse 
-  
-* **习题集：**
-  * 同济版配套课后习题
-  
-    链接：https://pan.baidu.com/s/1KUWcZ6KhVSc51J7K7Q_9aA 
-    提取码：2gwx 
+链接：https://pan.baidu.com/s/1_c26YTABbMYHNlLd-5B2wg 
     
-  * 吉米多维奇
-    
-    链接：https://pan.baidu.com/s/1iqUzagWe8znZy_DQOUdggg 
-    提取码：dizr 
+提取码：g88d 
 
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)**
-
-    链接：https://pan.baidu.com/s/1m-3ZyFdj1ETZLoBxUkmZnw 
-    提取码：vqhp 
-  
 ### 线性代数
-* **教材：**
-  * Introduction to Linear Algebra
-  
-    链接：https://pan.baidu.com/s/1buxBh7POMOSfKtIWevzqSA 
-    提取码：strs 
 
-  * 线性代数及其应用
-  
-* **资料：**
-   
-    链接：https://pan.baidu.com/s/1Cg6iqsyNL-V2QYlkweEJVA 
-    提取码：cawx 
+链接：https://pan.baidu.com/s/1Id-6X08q_jukKNHTfYNKjg 
 
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E8%AF%95%E5%8D%B7)**
-
-    链接：https://pan.baidu.com/s/1zojxh9u9E70OTPjbuZWF0A 
-    提取码：7lqo 
-
-P.s.可以配合《线性代数的本质》系列视频食用。
+提取码：cl3e 
 
 ### 大学物理
-* **教材：**
-  * 大学物理（吴百诗）
-  
-    链接：https://pan.baidu.com/s/1Bdvh_ouP6KUjYbfulTNJyQ 
-    提取码：qp8z 
-  
-* **资料：**
 
-    链接：https://pan.baidu.com/s/1klp_DjbfuZ9Hc9_UAIJBZg 
-    提取码：oy0c 
+链接：https://pan.baidu.com/s/1PiqHOGY0-W4XRZ77S0fQAA 
 
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E5%A4%A7%E5%AD%A6%E7%89%A9%E7%90%86/%E8%AF%95%E5%8D%B7)**
+提取码：wueu 
 
 ### C语言
-* **教材：**
-  * C语言入门经典
-  
-    链接：https://pan.baidu.com/s/1RaQMgm-aNg0YsyyxNXawGg 
-    提取码：lsy6 
 
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/C%E8%AF%AD%E8%A8%80/%E8%AF%95%E5%8D%B7)**
+链接：https://pan.baidu.com/s/1rpYtkxMkru1aiwIEXk6xSw 
 
-    链接：https://pan.baidu.com/s/1y3cMsJhXJnO-XGFvZrI3Pw 
-    提取码：agni 
+提取码：hp4f 
 
 ### 离散数学
-* **教材：**
-  * Discrete Mathematics and Its Applications
-  
-    链接：https://pan.baidu.com/s/1N9s6YDoWMjP0wmRyxGun7A 
-    提取码：shq4 
 
-  * Verification of Sequential and Concurrent Programs
-  
-    链接：https://pan.baidu.com/s/1zMs1SB_eibPvqPfS5x_evA 
-    提取码：acr9 
+链接：https://pan.baidu.com/s/1lYMinzjXrmD5pdM1BuvDfQ 
 
-* **笔记：**
- 
-    链接：https://pan.baidu.com/s/1eHR7IooSxti3RzEQMmTu4w 
-    提取码：grw6 
-    
-* **资料：**
-
-    链接：https://pan.baidu.com/s/1LsswL2Xt5s13s6g3ZqnLQA 
-    提取码：ch6w 
-    
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E7%A6%BB%E6%95%A3%E6%95%B0%E5%AD%A6/%E8%AF%95%E5%8D%B7)**
-
-    链接：https://pan.baidu.com/s/1Eu1ShSqsnokx2WQxRmzNPw 
-    提取码：69zq 
+提取码：gbyw 
 
 ### 数字逻辑
-* **教材：**
-  * 数字电子技术基础
-  
-* **资料：**
 
-    链接：https://pan.baidu.com/s/1xVnbqoJvsnyF77LDumprWg 
-    提取码：xzjh 
+链接：https://pan.baidu.com/s/1HLB2tfY0glVtQl_W3n8rdA 
 
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91/%E8%AF%95%E5%8D%B7)**
+提取码：rbji 
 
 ### 数据结构与算法
-* **教材：**
-  * C++数据结构与程序设计
-  
-    链接：https://pan.baidu.com/s/1xWZkXg60e9HTnXaE-L5Vvw 
-    提取码：06k1 
-    
-  * 挑战程序设计竞赛
-  
-    链接：https://pan.baidu.com/s/1OJ5QWtv3xWdNgyfnHgp-Qw 
-    提取码：8vr5 
-  
-  * 算法（Sedgewick）
-  
-    链接：https://pan.baidu.com/s/15AMnR0pNINUisp714nNeLw 
-    提取码：zf12 
 
-* **资料：**
+链接：https://pan.baidu.com/s/1_bVu3walVI3XK3D9ZVPg5Q 
 
-    链接：https://pan.baidu.com/s/1p3XJiykQ3Qc5_90Q8oD6Fw 
-    提取码：zms7 
-
-* **[试卷：](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%95%E5%8D%B7)**
-
-    链接：https://pan.baidu.com/s/15wj9Dcc7ilEn5Q5HNKoI8g 
-    提取码：5iqh 
-
-P.s.配合[EOJ](https://acm.ecnu.edu.cn/)上的题库食用。
+提取码：cem1 
 
 ### 计算机系统
-* **教材：**
-  * 深入理解计算机系统
-    
-    链接：https://pan.baidu.com/s/1aSrZfQ7VNdXN_wRwNpLCEw 
-    提取码：b5h4 
 
-* **实验环境：**
+[CSAPP实验](https://blog.csdn.net/dwenking/category_9898908.html)
 
-    链接：https://pan.baidu.com/s/10dSss0NRR7VxNmK1N4QD7w 
-    提取码：ad9y 
+链接：https://pan.baidu.com/s/1mAnMXFw1ThJXyTQLDYTpEA 
 
-* **实验报告：**
-    [CSAPP实验](https://blog.csdn.net/dwenking/category_9898908.html)
-    
-* **实验讲解：**
-    
-    链接：https://pan.baidu.com/s/1Eaq7BMf4KhN2eGB1boLjzA 
-    提取码：ztn3 
-
-* **资料:**
-
-    链接：https://pan.baidu.com/s/1vLrm_p8tnukFlQwP44dJVg 
-    提取码：ql2t 
-    
-
-* **[试卷:](https://github.com/dwenking/SoftwareEngineering-Core-Courses/tree/main/%E5%A4%A7%E4%B8%80%E5%AD%A6%E6%9C%9F/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F/%E8%AF%95%E5%8D%B7)**
-
-    链接：https://pan.baidu.com/s/1i7f_GbdQEcJY3dJUqq-frQ 
-    提取码：x1mq 
+提取码：zise 
 
 ### Java
-* **资料：**
+    
+[笔记](https://blog.csdn.net/dwenking/category_10189892.html)
+链接：https://pan.baidu.com/s/1SLn1L1UKf05WlOMnRgmW3Q 
 
-  * **Java基础：**
-  
-    链接：https://pan.baidu.com/s/1Ax-MCfJbmmoZxFzrE7PPFw 
-    提取码：zckr 
-    
-  * **Java进阶：**
-    
-    [笔记](https://blog.csdn.net/dwenking/category_10189892.html)
+提取码：kj6z 
     
 ## GoodNotes笔记
-  * **大一：**
-  
-    链接：https://pan.baidu.com/s/1JyXeYXaBoGZXT--0gJe7HA 
-    提取码：bbkh
+
+链接：https://pan.baidu.com/s/1EYJEA5J3ENYNEGO_u4zFRQ 
+
+提取码：8i8r 
    
