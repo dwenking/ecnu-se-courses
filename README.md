@@ -1,4 +1,4 @@
-# ECNU-SoftwareEngineering-Core-Courses
+# ECNU-SoftwareEngineering-Courses
 
 ## Preface
 本项目整理了ECNU软件工程所学的核心课程，资料来源自网络/前人的收集整理。希望能对后来者的学习产生一点帮助。
@@ -68,7 +68,33 @@
 链接：https://pan.baidu.com/s/1SLn1L1UKf05WlOMnRgmW3Q 
 
 提取码：kj6z 
-    
+
+## 大二学年
+
+### 操作系统
+
+链接：https://pan.baidu.com/s/1JsiF2gIKh_49T3feb_Lg2A 
+
+提取码：wx7u 
+
+### 计算机网络
+
+链接：https://pan.baidu.com/s/1ZybcPoo9DFsyUVU77Tw-DQ 
+
+提取码：5ylg 
+
+### 概率论
+
+链接：https://pan.baidu.com/s/1ylo9cz76UBFwj9BABOGghg 
+
+提取码：lx8j 
+
+### Linux
+
+链接：https://pan.baidu.com/s/1HMmhm4qITWC1Ll-Eu7sRlw 
+
+提取码：ak7p 
+
 ## GoodNotes笔记
 
 链接：https://pan.baidu.com/s/1EYJEA5J3ENYNEGO_u4zFRQ 
