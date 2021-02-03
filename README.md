@@ -73,15 +73,15 @@
 
 ### 操作系统
 
-链接：https://pan.baidu.com/s/1JsiF2gIKh_49T3feb_Lg2A 
+链接：https://pan.baidu.com/s/1fQ9Klxnfu2EDxiBiqQTgsA 
 
-提取码：wx7u 
+提取码：vgtc 
 
 ### 计算机网络
 
-链接：https://pan.baidu.com/s/1ZybcPoo9DFsyUVU77Tw-DQ 
+链接：https://pan.baidu.com/s/1xzk-yRXvS2FPfJAJqXiZUA 
 
-提取码：5ylg 
+提取码：ybd0 
 
 ### 概率论
 
@@ -100,4 +100,3 @@
 链接：https://pan.baidu.com/s/1EYJEA5J3ENYNEGO_u4zFRQ 
 
 提取码：8i8r 
-   
