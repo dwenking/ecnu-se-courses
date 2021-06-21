@@ -92,6 +92,38 @@ OS链接总是挂Orz，先不放了。
 
 提取码：ak7p 
 
+### 数据库
+
+链接：https://pan.baidu.com/s/134JBRVuBUSJN8AEfQCUsMA 
+
+提取码：y2tc 
+
+### UML
+
+链接：https://pan.baidu.com/s/1OGd61dOwrLORSIxitvYnBw 
+
+提取码：dloe 
+
+### 并行程序设计
+
+链接：https://pan.baidu.com/s/1Xv3QVR5byOroqOq_rpIuHg 
+
+提取码：0xdf 
+
+### 可信软件开发
+
+链接：https://pan.baidu.com/s/1YsMieaPNnYugFJBwBsXPeg 
+
+提取码：qlya 
+
+### Android
+
+[笔记](https://www.yuque.com/books/share/f16383d6-7c15-4df8-8807-ecc940d03cc2?)
+
+链接：https://pan.baidu.com/s/1w96YVvJ3TeqSjxTn1Db_ew 
+
+提取码：f3v9 
+
 ## GoodNotes笔记
 
 链接：https://pan.baidu.com/s/1EYJEA5J3ENYNEGO_u4zFRQ 
