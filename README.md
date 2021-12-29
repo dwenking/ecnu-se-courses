@@ -1,12 +1,7 @@
 # ECNU-SoftwareEngineering-Courses
 
 ## Preface
-本项目整理了ECNU软件工程所学的核心课程，资料来源自网络/前人的收集整理。希望能对后来者的学习产生一点帮助。
-
-虽然没人看，不过本项目会持续更新，作为对我大学生活的一个纪念( ͡• ͜ʖ ͡• )。
-
-传度盘的原因是从本地git上传文件之后似乎下载下来不太方便，不知道为什么不能在线浏览（当然也有可能是因为我网络的原因）。
-
+ECNU软件工程所学的核心课程资源整理。
 
 ## 大一学年
 
@@ -123,6 +118,38 @@ OS链接总是挂Orz，先不放了。
 链接：https://pan.baidu.com/s/1w96YVvJ3TeqSjxTn1Db_ew 
 
 提取码：f3v9 
+
+## 大三学年
+
+### 面向对象设计分析
+
+链接：https://pan.baidu.com/s/1cpAgbA0jeVPMmOZuOXulvw 
+
+提取码：rqyx
+
+### 软件测试
+
+链接：https://pan.baidu.com/s/1ovHY50uhPsV1CNKsrOttWg 
+
+提取码：vo0e
+
+### 算法设计与分析
+
+链接：https://pan.baidu.com/s/1rBxm8qYtwR5EYjHMb258kA 
+
+提取码：phh6
+
+### 函数语言程序设计
+
+链接：https://pan.baidu.com/s/1u5Ze1subNLfb9wcRq-X6zg 
+
+提取码：jn7k
+
+### 非关系型数据库及其应用
+
+链接：https://pan.baidu.com/s/1ughKqzFKKsuIUWMCzXjbTQ 
+
+提取码：x2sy
 
 ## GoodNotes笔记
 
