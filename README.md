@@ -87,6 +87,8 @@ OS链接总是挂Orz，先不放了。
 
 提取码：ak7p 
 
+[笔记](https://blog.csdn.net/dwenking/category_10533304.html)
+
 ### 数据库
 
 链接：https://pan.baidu.com/s/134JBRVuBUSJN8AEfQCUsMA 
@@ -150,6 +152,24 @@ OS链接总是挂Orz，先不放了。
 链接：https://pan.baidu.com/s/1ughKqzFKKsuIUWMCzXjbTQ 
 
 提取码：x2sy
+
+### 编译原理
+
+链接：https://pan.baidu.com/s/1y3UotFZJcRbpFnp13bm8wA 
+
+提取码：67sw
+
+### 云计算
+
+链接：https://pan.baidu.com/s/1-_UrUX7sfY2rUBRNSjULbQ 
+
+提取码：sqfg
+
+### 软件需求
+
+链接：https://pan.baidu.com/s/1bfXxcBDf_qu9rPOTd3Ja4Q 
+
+提取码：sdal
 
 ## GoodNotes笔记
 
