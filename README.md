@@ -83,11 +83,11 @@ OS链接总是挂Orz，先不放了。
 
 ### Linux
 
+[笔记](https://blog.csdn.net/dwenking/category_10533304.html)
+
 链接：https://pan.baidu.com/s/1HMmhm4qITWC1Ll-Eu7sRlw 
 
 提取码：ak7p 
-
-[笔记](https://blog.csdn.net/dwenking/category_10533304.html)
 
 ### 数据库
 
