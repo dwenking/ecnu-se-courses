@@ -67,7 +67,9 @@ ECNU软件工程所学的核心课程资源整理。
 
 ### 操作系统
 
-OS链接总是挂Orz，先不放了。
+链接: https://pan.baidu.com/s/13Tq5DjqLjCGI1cHIOF-HDA?pwd=6kd7 
+
+提取码: 6kd7
 
 ### 计算机网络
 
