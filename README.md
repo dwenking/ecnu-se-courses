@@ -172,9 +172,3 @@ ECNU软件工程所学的核心课程资源整理。
 链接：https://pan.baidu.com/s/1bfXxcBDf_qu9rPOTd3Ja4Q 
 
 提取码：sdal
-
-## GoodNotes笔记
-
-链接：https://pan.baidu.com/s/1EYJEA5J3ENYNEGO_u4zFRQ 
-
-提取码：8i8r 
